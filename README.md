@@ -22,8 +22,13 @@ This project is a threat protection software developed in Python that provides r
    git clone https://github.com/amitrajputfff/Network-Threat-Protection.git
   
 2. Change the Directory :
-   cd threat-protection-software
-3. Install Dependencies :
+
+    ```bash
+    cd Network-Threat-Protection
+    
+4. Install Dependencies :
+
+    ```bash
    pip install -r requirements.txt
 
 ## Usage
